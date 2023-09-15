@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 
-const Cursor = require("../class/cursor.js");
+const { Cursor } = require("../class/cursor.js");
 
 describe ('Cursor setup', function () {
 
