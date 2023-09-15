@@ -12,4 +12,4 @@ class Cursor {
     }
 }
 
-module.exports = { Cursor };
+module.exports = Cursor;
